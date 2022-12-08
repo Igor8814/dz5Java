@@ -1,4 +1,4 @@
-~~~
+```java
 package program5;
 import java.util.Random;
 import java.util.HashMap;
@@ -77,4 +77,4 @@ public class program5 {
          System.out.println("DeltaTime for random access of TreeMap is " + deltaTime4);
         }
 }
-~~~
+```
